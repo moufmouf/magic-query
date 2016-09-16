@@ -25,7 +25,8 @@
     "require-dev": {
         "phpunit/phpunit": "~5.0",
         "satooshi/php-coveralls": "~1.0",
-        "doctrine/dbal": "~2.5"
+        "doctrine/dbal": "~2.5",
+        "doctrine/cache": "^1.6"
     },
     "suggest": {
       "doctrine/dbal": "To support more databases than just MySQL and to use MagicJoin feature",
